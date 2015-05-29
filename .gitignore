@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<title>lauren</title>
+		<link rel="stylesheet" type="text/css" href="reset.css">
+		<link rel="stylesheet" type="text/css" href="site.css">
+		<meta charset="utf-8">
+	</head>
+	<header class="header">
+  <h1 class="header__logo">Lauren  sloor</h1>
+  <nav class="header__nav">
+    <a class="header__nav-item" href="#"><a class="link" href="file:///Users/admin/Documents/IT2_SloorLauren_portfolio/lauren1.html">ABOUT ME</a>
+      <span class="header__nav-item__description">get to know me</span></a>
+    <a class="header__nav-item" href="#"><a class="link" href="file:///Users/admin/Documents/IT2_SloorLauren_portfolio/lauren.html">THINGS I LIKE</a>
+      <span class="header__nav-item__description">Get inspired</span></a>
+    <a class="header__nav-item" href="#"><a class="link" href="file:///Users/admin/Documents/IT2_SloorLauren_portfolio/lauren3.html">WORK</a>
+      <span class="header__nav-item__description">Just look at all the things I have done</span></a>
+    <a class="header__nav-item" href="#"><a class="link" href="file:///Users/admin/Documents/IT2_SloorLauren_portfolio/lauren2.html">CONTACT</a>
+      <span class="header__nav-item__description">So just call me will you</span></a>
+  </nav>
+  <div class="header__show-all"></div>
+</header>
+
